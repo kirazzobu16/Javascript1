@@ -1,0 +1,19 @@
+body {
+   background-color: grey; 
+   text-align: center;
+   color: #FFB72B;
+   
+}
+.position {
+    position: relative;
+    top: 12vh;
+    
+}
+.container {
+    font-size: 4vw;
+    position: relative;
+}
+p {
+    font-size: 4vw;
+    margin-top: -0.3vh;
+}
